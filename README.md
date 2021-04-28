@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @naren901
-- 👀 I’m interested in Data Engineering, Data Science, Software Engineering.
-- 🌱 I’m currently learning  Data Engineering and Data Science, 
-- - 💞️ I’m looking to collaborate on Data Engineering, Data Science
+- 👀 I’m interested in Data Engineering, Software Engineering and applied Statistics and ML.
+- I like ot implement Optimization and Applied Maths algorithems.
+- - 💞️ I’m looking to collaborate on Data Engineering, Data Science projects.
 - 📫 
 
 <!---
