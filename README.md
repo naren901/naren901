@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @naren901
-- 👀 I’m interested in Data Engineering, Software Engineering and applied Statistics and ML.
-- I like to implement Optimization and Applied Maths algorithems.
+- 👀 I’m interested in Analtyics,ML, Data Engineering and Programming
+- I like to fiddle with algorithms, implement ML/Optimization algorithms.
 - - 💞️ I’m looking to collaborate on Data Engineering, Data Science projects.
 - 📫 
 
